@@ -1,0 +1,6 @@
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.dll.config
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.dll
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\bin\Debug\HotelBookingService.pdb
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.dll
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.pdb
+C:\Users\007\Desktop\HotelBookingService\HotelBookingService\obj\Debug\HotelBookingService.csprojResolveAssemblyReference.cache

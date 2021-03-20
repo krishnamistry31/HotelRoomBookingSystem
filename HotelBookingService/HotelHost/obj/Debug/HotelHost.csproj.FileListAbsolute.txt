@@ -1,0 +1,8 @@
+C:\Users\007\Desktop\HotelBookingService\HotelHost\obj\Debug\HotelHost.csprojResolveAssemblyReference.cache
+C:\Users\007\Desktop\HotelBookingService\HotelHost\bin\Debug\HotelHost.exe.config
+C:\Users\007\Desktop\HotelBookingService\HotelHost\bin\Debug\HotelHost.exe
+C:\Users\007\Desktop\HotelBookingService\HotelHost\bin\Debug\HotelHost.pdb
+C:\Users\007\Desktop\HotelBookingService\HotelHost\bin\Debug\HotelBookingService.dll
+C:\Users\007\Desktop\HotelBookingService\HotelHost\bin\Debug\HotelBookingService.pdb
+C:\Users\007\Desktop\HotelBookingService\HotelHost\obj\Debug\HotelHost.exe
+C:\Users\007\Desktop\HotelBookingService\HotelHost\obj\Debug\HotelHost.pdb
